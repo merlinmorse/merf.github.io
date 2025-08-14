@@ -1,0 +1,33 @@
+Body{
+    margin: 0;
+    padding: 0;
+    background-color: #232323;
+    user-select: none;
+}
+
+.bar{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    background-color: #375a8f;
+}
+
+.tab{
+    display: inline-block;
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+}
+
+.page{
+    color: white;
+    display: block;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+.page:hover{
+    background-color:#4c6ea1;
+}
+
